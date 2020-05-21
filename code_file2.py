@@ -1,5 +1,5 @@
 #!/bin/bash
-neural_net
+deep
 print("Hey")
 print("Working")
 print("Next commit")
