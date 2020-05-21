@@ -1,5 +1,5 @@
 #!/bin/bash
-#deep
+print("deep")
 print("Hey")
 print("Working")
 print("Next commit")
